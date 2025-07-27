@@ -4,7 +4,7 @@ Teapad is a KMK based 3 by 3 macropad in the shape of a teapod.
 This project is based of the amazing [Hackclub Hackpad](https://hackpad.hackclub.com/submitting) template.
 
 ## CAD Model
-The Case is held together by 6 M3 Bolts and heatset inserts.
+The Case is held together by 6 M3 Bolts and nuts.
 Printable Parts are located in the [production directory](https://github.com/Eisbaer1832/Teapad/tree/main/production).
 ![Image of the assembled Hackpad](Assets/Assembled%20Teapad.jpg)
 
@@ -25,5 +25,5 @@ Customizable QT Frontend to change these and implement LED Status codes is commi
 * 9x Cherry MX Switches
 * 9x DSA keycaps
 * 6x M3x16mm screws
-* 6x M3x5mx4mm heatset inserts
+* 6x M3 nuts
 * 1x Case (1x Top, 1x Bottom)
