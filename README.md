@@ -25,5 +25,5 @@ Customizable QT Frontend to change these and implement LED Status codes is commi
 * 9x Cherry MX Switches
 * 9x DSA keycaps
 * 6x M3x16mm screws
-* 6x M3 nuts
+* 6x M3 nuts (self provided)
 * 1x Case (1x Top, 1x Bottom)
